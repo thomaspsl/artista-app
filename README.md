@@ -3,6 +3,7 @@
   <img src='lib/assets/pictures/favicon.ico' alt='Artista' height='150' style='margin: 20px'>
   
   # Artista Project
+
   #### It's a mobile application for grouping various artists, built with [Flutter](https://flutter.dev).
 
   [![Flutter](https://img.shields.io/badge/Flutter-x.x-377ADB)](https://flutter.dev)
@@ -55,10 +56,6 @@
   ## ✨ Credits
 
   ...
-
-  <!-- [![HeadlessUi](https://img.shields.io/badge/headlessui-7cd3fc.svg?style=for-the-badge&logo=Headlessui&logoColor=black)](https://headlessui.com)
-  [![TensorFlow](https://img.shields.io/badge/tensorflow-fe6f00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org)
-  [![OpenAI](https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=OpenAi&logoColor=white)](https://openai.com) -->
 
   ## 💸 Support
 
