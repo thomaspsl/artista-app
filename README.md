@@ -8,8 +8,7 @@
 
   [![Flutter](https://img.shields.io/badge/Flutter-x.x-377ADB)](https://flutter.dev)
 
-  [![Dart](https://img.shields.io/badge/Dart-x.x-00B4AB)](https://dart.dev)
-  [![Swift](https://img.shields.io/badge/Swift-x.x-F05138)](https://www.apple.com/fr/swift)
+  [![Dart](https://img.shields.io/badge/Dart-x.x-00B4AB)](https://dart.dev) [![Swift](https://img.shields.io/badge/Swift-x.x-F05138)](https://www.apple.com/fr/swift)
 
   [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Emailware](#-emailware) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
 
