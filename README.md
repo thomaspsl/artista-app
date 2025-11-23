@@ -1,6 +1,6 @@
 <div align='center'>
-  
-  <img src='lib/assets/pictures/favicon.ico' alt='Artista' height='150' style='margin: 20px'>
+
+  [<img src='lib/assets/pictures/favicon.ico' alt='Artista' height='150' style='margin: 20px'>](.)
   
   # Artista Project
 
