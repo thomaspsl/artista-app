@@ -4,7 +4,7 @@
   
   # Artista Project
 
-  #### It's a mobile application for grouping various artists, built with [Flutter](https://flutter.dev).
+  It's a mobile application for grouping various artists, built with [Flutter](https://flutter.dev).
 
   [![Flutter](https://img.shields.io/badge/Flutter-x.x-377ADB)](https://flutter.dev)
 
