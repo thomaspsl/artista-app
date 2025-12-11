@@ -6,10 +6,10 @@
 
   It's a mobile application for grouping various artists, built with [Flutter](https://flutter.dev).
 
-  [![Flutter](https://img.shields.io/badge/Flutter-x.x-377ADB)](https://flutter.dev)
+  [![Flutter](https://img.shields.io/badge/Flutter-3.3-377ADB)](https://flutter.dev)
 
-  [![Dart](https://img.shields.io/badge/Dart-x.x-00B4AB)](https://dart.dev) 
-  [![Swift](https://img.shields.io/badge/Swift-x.x-F05138)](https://www.apple.com/fr/swift)
+  [![Dart](https://img.shields.io/badge/Dart-2.18-00B4AB)](https://dart.dev) 
+  [![Swift](https://img.shields.io/badge/Swift-11.0-F05138)](https://www.apple.com/fr/swift)
 
   [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
 
@@ -51,7 +51,8 @@
 
   ## ✨ Credits
 
-  ...
+  [![GoRouter](https://img.shields.io/badge/GoRouter-29b6f6?style=for-the-badge&logo=flutter&logoColor=white)](https://www.patreon.com)
+  [![custom_gallery](https://img.shields.io/badge/custom_gallery-29b6f6?style=for-the-badge&logo=flutter&logoColor=white)](https://www.patreon.com)
 
   ## 💸 Support
 
