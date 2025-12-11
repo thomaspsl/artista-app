@@ -11,9 +11,9 @@
   [![Dart](https://img.shields.io/badge/Dart-x.x-00B4AB)](https://dart.dev) 
   [![Swift](https://img.shields.io/badge/Swift-x.x-F05138)](https://www.apple.com/fr/swift)
 
-  [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Emailware](#-emailware) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
+  [Contributors](#-contributors) • [Description](#-description) • [How To Use](#-how-to-use) • [Key Features](#-key-features) • [Credits](#-credits) • [Support](#-support) • [License](#-license)
 
-  <!-- ![Accueil _ Surpuissant](https://github.com/user-attachments/assets/ed600db0-66ab-4eca-b7e5-b58a0275adc8) -->
+  ![Accueil _ Artista](lib/assets/pictures/poster.jpeg)
 
 </div>
 
@@ -48,10 +48,6 @@
   ## 🔑 Key Features
 
   You can find the specifications for this project [here](https://docs.google.com/document/d/1-9So_Khd03XDREVyta-hP0RD6P2HC9zX/edit?usp=sharing&ouid=111340274041187141616&rtpof=true&sd=true).
-
-  ## 📮 Emailware
-
-  Artista is designed to be freely accessible. If you find this app useful or it has helped you in any way, I’d love to hear your feedback! Please feel free to reach out to me at <contact@thomaspsl.fr> with any comments or suggestions you might have about this web software. Your input is greatly appreciated!
 
   ## ✨ Credits
 
